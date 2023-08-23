@@ -1,0 +1,7 @@
+{
+  "name": "GuiaIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
